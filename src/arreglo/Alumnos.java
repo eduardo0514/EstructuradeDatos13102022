@@ -9,9 +9,9 @@ package arreglo;
  * @author lenovo
  */
 public class Alumnos {
-     private String nombre;
-    private int edad;
-    private int numero_de_cuenta;
+    public String nombre;
+    public int edad;
+    public int numero_de_cuenta;
 
     public Alumnos() {
     }
