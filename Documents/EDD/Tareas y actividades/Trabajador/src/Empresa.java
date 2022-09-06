@@ -1,0 +1,18 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+
+/**
+ *
+ * @author lenovo
+ */
+public class Empresa {
+    public static void main(String[] args) {
+        Empleados jornada = new Empleados();
+        
+        NominaADT archivo = new NominaADT();
+           archivo.LeerArchivos("C:\\Users\\lenovo\\Desktop\\junio.dat");
+    }
+
+}
